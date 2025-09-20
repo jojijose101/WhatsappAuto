@@ -5,7 +5,7 @@ A Python-based tool to send or repeat WhatsApp messages automatically.
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-![Alt text](path/to/image.png)
+![Alt text](https://github.com/jojijose101/WhatsappAuto/blob/main/Screenshot%202025-09-20%20101807.png)
 
 
 ## 📌 Features
